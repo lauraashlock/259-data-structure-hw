@@ -1,0 +1,28 @@
+{
+    "id": "97E627F6",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1644181544621.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "d84a33fefcbb4e80b059da8b2edb4275",
+        "name": "rs_split",
+        "title": "rs_split",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2334675642021538124,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644181544621,
+    "read_only": false,
+    "read_only_alternatives": []
+}
